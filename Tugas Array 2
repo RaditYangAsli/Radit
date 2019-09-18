@@ -1,0 +1,9 @@
+package TugasArray;
+public class Number1 {
+    public static void main(String[] args) {
+    int bilangan [5] = {1,2,3,4,5,6,7,8};
+    System.out.print(bilangan [2]);
+  }
+}
+
+//akan berjalan eror karena array yang diminta hanya 5
